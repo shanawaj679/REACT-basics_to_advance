@@ -1,0 +1,22 @@
+h1{
+  color:seashell;
+}
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center
+}
+.card{
+  height:40vh;
+  width:100%;
+  border:2px solid rgb(66, 66, 66);
+}
+.card_content{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.logo{
+  height:100px;
+  width:100px;
+}
