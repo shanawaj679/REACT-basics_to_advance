@@ -1,0 +1,12 @@
+*{
+   margin:0;
+   padding:0;
+}
+body{ 
+   background-size:cover;
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   min-height:100vh;
+   background:linear-gradient(135deg, #0F172A, #1E3A8A);
+   color: #F8FAFC;
+}
