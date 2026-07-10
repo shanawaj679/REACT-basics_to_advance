@@ -1,0 +1,10 @@
+body{
+    background-image:url(./assets/Screenshot\ 2026-07-06\ at\ 12.22.11\ AM.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-position:center;
+     background-attachment: fixed;
+}
+html{
+    scroll-behavior: smooth;
+}

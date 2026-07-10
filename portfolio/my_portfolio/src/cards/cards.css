@@ -1,0 +1,9 @@
+.card_background{
+    backdrop-filter: blur(12px);
+    transition: transform 0.3s ease;
+    width:fit-content;
+}
+
+.card_background:hover{
+    transform: translateY(-10px) scale(1.05);
+}

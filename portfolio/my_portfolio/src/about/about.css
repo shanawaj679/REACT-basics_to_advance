@@ -1,0 +1,30 @@
+.about_container{
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.about_me{
+  font-size:2.5rem;
+    color:#414141; 
+  font-weight:600;
+}
+.about_section{
+  display: grid;
+  grid-template-rows: 0.1fr 1fr;
+}
+.about_content{
+  font-size:1.5rem;
+  line-height:1.8;
+  font-weight:400;
+}
+
+.about_cards{
+  padding-top:1rem;
+  font-size:1.6rem;
+  font-weight:600;
+   color:#5e5e5e; 
+}
+.about_section:hover{
+  backdrop-filter: blur(13px);
+  border-radius:2rem;
+}
